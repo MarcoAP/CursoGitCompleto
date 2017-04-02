@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.eclipse.php.debug.core.pathMapper=<pathMappers><item1><server>Default PHP Web Server</server><mapper></mapper></item1></pathMappers>
+org.eclipse.php.debug.coreinstalledPHPDebuggers=org.eclipse.php.debug.core.zendDebugger
+org.eclipse.php.debug.coreinstalledPHPDefaults=org.eclipse.php.debug.core.zendDebugger\=php-5.6.2
+org.eclipse.php.debug.coreinstalledPHPInis=null
+org.eclipse.php.debug.coreinstalledPHPLoadIniDefaults=true
+org.eclipse.php.debug.coreinstalledPHPLocations=/Users/Marco/Documents/Desenvolvimentos/PHP Executable/php-5.6.2.tar.bz2
+org.eclipse.php.debug.coreinstalledPHPNames=php-5.6.2
+org.eclipse.php.debug.corephp_versions=null
